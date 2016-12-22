@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GAME", "GAME.vcxproj", "{1428A4F2-CEFF-4D01-AA67-E7AB163159EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CRT_Debug|x86 = CRT_Debug|x86
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1428A4F2-CEFF-4D01-AA67-E7AB163159EA}.CRT_Debug|x86.ActiveCfg = CRT_Debug|Win32
+		{1428A4F2-CEFF-4D01-AA67-E7AB163159EA}.CRT_Debug|x86.Build.0 = CRT_Debug|Win32
+		{1428A4F2-CEFF-4D01-AA67-E7AB163159EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{1428A4F2-CEFF-4D01-AA67-E7AB163159EA}.Debug|x86.Build.0 = Debug|Win32
+		{1428A4F2-CEFF-4D01-AA67-E7AB163159EA}.Release|x86.ActiveCfg = Release|Win32
+		{1428A4F2-CEFF-4D01-AA67-E7AB163159EA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+#include "Character.h"
+#include "Collision.h"
+#include "ManageObjects.h"
+#include "Objects.h"
+#include "World.h"
